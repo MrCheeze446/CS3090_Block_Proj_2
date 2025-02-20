@@ -1,4 +1,4 @@
-This is an extremely simple project using Python's haslib to output various hashed strings.
+This is an extremely simple Python script to calculate an arbitrary score to a password depending on its length and if it contains a special character.
 
 To run the project simply just do ``python main.py``
 
